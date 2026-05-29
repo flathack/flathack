@@ -5,22 +5,31 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/fY9qweRWGn">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Server-7289da?logo=discord&logoColor=white&style=for-the-badge">
+  </a>
   <img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-space%20sim-0b1026?style=for-the-badge">
   <img alt="Projects" src="https://img.shields.io/badge/Projects-Active-00d5ff?style=for-the-badge">
-  <img alt="Community" src="https://img.shields.io/badge/Community-Modding%20Tools-39d98a?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="#english-version">English Version</a> • <a href="#deutsche-version">Deutsche Version</a>
 </p>
 
 ---
+
+<a id="english-version"></a>
+## English Version
 
 Welcome to **flathack**! I develop robust, user-centric, and open-source tools for the legendary space simulation game **Microsoft Freelancer**. My primary goal is to empower players, modders, and server creators with advanced utilities that enhance gameplay, streamline modding workflows, and make customization safe and simple.
 
 ---
 
-## Main Projects
+### Main Projects
 
 I maintain two flagship projects in active development that form the core of the Freelancer toolkit:
 
-### <img src="assets/flatlas_v2.png" width="28" height="28" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+#### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 > **Native Freelancer universe and visual system tooling** for complex modding workflows around systems, bases, trade lanes, jump gates/jump holes, and system map layouts.
 
 <p align="left">
@@ -36,7 +45,7 @@ Explore the repository: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
 ---
 
-### <img src="assets/savegame_editor.png" width="28" height="28" align="center" /> [FLAtlas Savegame Editor](https://github.com/flathack/FLAtlas---Save-Game-Editor)
+#### <img src="assets/savegame_editor.png" width="24" height="24" align="center" /> [FLAtlas Savegame Editor](https://github.com/flathack/FLAtlas---Save-Game-Editor)
 > **A safer, mod-aware singleplayer Freelancer savegame editor** equipped with automatic backup histories, integrity checks, and encrypted save file support.
 
 <p align="left">
@@ -54,9 +63,9 @@ Explore the repository: [FLAtlas Savegame Editor](https://github.com/flathack/FL
 
 ---
 
-## Desktop Companions
+### Desktop Companions
 
-### <img src="assets/launcher.png" width="28" height="28" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+#### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 > **Desktop utility launcher** for organizing Freelancer installations, active mods, multiplayer IDs, and starting development companions.
 
 <p align="left">
@@ -72,7 +81,7 @@ Explore the repository: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-
 
 ---
 
-## Savegame Editor Downloads & Mirror Sites
+### Savegame Editor Downloads & Mirror Sites
 
 For quick access, the stable builds of the **FLAtlas Savegame Editor** can be downloaded directly:
 
@@ -85,11 +94,98 @@ For quick access, the stable builds of the **FLAtlas Savegame Editor** can be do
 
 ---
 
-## Notes & Community Engagement
+### Notes & Community Engagement
 
 Development of the `flathack` suite is highly community-focused. While major features are designed and iterated in private workspaces first, all release builds, bug trackers, and installation packages are maintained transparently.
 
 If you encounter bugs, have suggestions, or would like to contribute, please feel free to open an issue or pull request in the respective repository!
+
+---
+---
+
+<a id="deutsche-version"></a>
+## Deutsche Version
+
+Willkommen bei **flathack**! Ich entwickle robuste, nutzerorientierte und quelloffene Tools für die legendäre Weltraumsimulation **Microsoft Freelancer**. Mein Hauptziel ist es, Spielern, Moddern und Server-Administratoren fortschrittliche Werkzeuge an die Hand zu geben, die das Gameplay verbessern, Modding-Workflows optimieren und Anpassungen sicher und unkompliziert machen.
+
+---
+
+### Hauptprojekte
+
+Ich betreue zwei Flaggschiff-Projekte in aktiver Entwicklung, die den Kern des Freelancer-Toolkits bilden:
+
+#### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+> **Natives Freelancer-Universums- und visuelles System-Tool** für komplexe Modding-Workflows rund um Systeme, Basen, Handelsrouten, Jump Gates/Jump Holes und Systemkarten-Layouts.
+
+<p align="left">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/flathack/FLAtlas-V2?style=flat-square&color=1f8cff">
+  <img alt="Stars" src="https://img.shields.io/github/stars/flathack/FLAtlas-V2?style=flat-square&color=f4a300">
+</p>
+
+*   **Interaktive Visualisierungen:** Stellt Systeme, Verbindungen, Handelsnetzwerke und Planeten visuell dar, sodass Modder die Struktur des Freelancer-Universums leicht überprüfen können.
+*   **Mod-optimierte Verarbeitung:** Extrem performante native Engine, die selbst riesige Total-Conversion-Mod-Strukturen (z. B. HD Edition, Discovery, Genesis) mühelos verarbeitet.
+*   **System-Layout-Werkzeuge:** Vereinfacht die mühsame Aufgabe, Universumskoordinaten, Systemgrenzen und Jump-Verbindungen zu bearbeiten und zu validieren.
+
+Repository erkunden: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+
+---
+
+#### <img src="assets/savegame_editor.png" width="24" height="24" align="center" /> [FLAtlas Savegame Editor](https://github.com/flathack/FLAtlas---Save-Game-Editor)
+> **Ein sicherer, mod-kompatibler Savegame-Editor für den Freelancer-Einzelspieler** mit automatischem Backup-Verlauf, Integritätsprüfungen und Unterstützung für verschlüsselte Savegames.
+
+<p align="left">
+  <img alt="Latest Release" src="https://img.shields.io/badge/Latest%20Release-v0.6.2-00d5ff?style=flat-square">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/flathack/FLAtlas---Save-Game-Editor?style=flat-square&color=00d5ff">
+  <img alt="Stars" src="https://img.shields.io/github/stars/flathack/FLAtlas---Save-Game-Editor?style=flat-square&color=f4a300">
+</p>
+
+*   **Mod-Kompatibilität:** Erkennt und analysiert aktive Freelancer-Spielverzeichnisse direkt und liest Mod-Ausrüstung, Rohstoffnamen, benutzerdefinierte Schiffe und lokalisierte Systemnamen korrekt aus.
+*   **Verschlüsselte Saves:** Unterstützt die standardmäßigen `FLS1`-Einzelspieler-Savegames, sodass die bearbeiteten Spielstände reibungslos mit der Freelancer-Engine kompatibel bleiben.
+*   **Sicherheits-Backups:** Erstellt vor dem Speichern automatisch einen Verlauf von Backups deiner `.fl`-Saves, sodass du jederzeit jeden früheren Spielstand wiederherstellen kannst.
+*   **Visuelle Piloteneditierung:** Bearbeite Credits, Rang, Ruf-Faktionen, Schiffswaffen, Cargo-Inventar, besuchte Systeme und Trents Aussehen über eine ansprechende Benutzeroberfläche.
+
+Repository erkunden: [FLAtlas Savegame Editor](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Direkt-Download v0.6.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.6.2) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+
+---
+
+### Desktop-Begleitprogramme
+
+#### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+> **Desktop-Utility-Launcher** zur Organisation von Freelancer-Installationen, aktiven Mods, Multiplayer-IDs (MPIDs) und zum Starten von Entwickler-Tools.
+
+<p align="left">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/flathack/FL-Atlas-Launcher?style=flat-square&color=39d98a">
+  <img alt="Stars" src="https://img.shields.io/github/stars/flathack/FL-Atlas-Launcher?style=flat-square&color=f4a300">
+</p>
+
+*   **Multi-Installations-Manager:** Verwalte und starte mehrere Freelancer-Verzeichnisse oder verschiedene Mod-Konfigurationen komfortabel aus einem zentralen Hub.
+*   **Spielerprofil-Verwaltung:** Verwalte Multiplayer-Identifikationszertifikate (MPIDs), konfiguriere Grafik-Overrides und steuere Spiel-Startparameter.
+*   **Tool-Integration:** Starte den Savegame Editor und die Universums-Werkzeuge direkt aus dem Launcher-Dashboard.
+
+Repository erkunden: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+
+---
+
+### Downloads & Mirror-Seiten für den Savegame Editor
+
+Für den schnellen Zugriff können die stabilen Builds des **FLAtlas Savegame Editors** hier direkt heruntergeladen werden:
+
+| Plattform / Mirror | Zweck / Ziel | Download-Link |
+| --- | --- | --- |
+| **Windows x64** | Standard-Windows-PCs | [Download v0.6.2 (64-bit)](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.6.2/FLAtlas-Savegame-Editor-v0.6.2-windows-x64.zip) |
+| **Windows ARM64** | ARM-based Windows-Geräte | [Download v0.6.2 (ARM64)](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.6.2/FLAtlas-Savegame-Editor-v0.6.2-windows-arm64.zip) |
+| **Release Changelogs** | Checksummen, Notizen & Quellcode | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.6.2) |
+| **ModDB Mirror** | Offizielle ModDB-Projektseite | [FLAtlas Savegame Editor auf ModDB](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor) |
+
+---
+
+### Hinweise & Community-Austausch
+
+Die Entwicklung der `flathack`-Tools ist stark community-orientiert. Während größere Features zunächst in privaten Workspaces entworfen werden, sind alle Release-Builds, Bug-Tracker und Installationspakete öffentlich und transparent einsehbar.
+
+Falls du Fehler findest, Feedback hast oder dich beteiligen möchtest, kannst du jederzeit ein Issue oder einen Pull Request im jeweiligen Repository einreichen!
+
+---
 
 <p align="center">
   <sub><strong>Search Keywords:</strong> Freelancer savegame editor, Freelancer save editor, Freelancer save file editor, Freelancer .fl editor, FL savegame editor, FLAtlas Savegame Editor, Freelancer singleplayer save editor, Freelancer mod save editor, Freelancer credits editor, Freelancer reputation editor, Freelancer ship editor, Freelancer cargo editor, Freelancer equipment editor, Freelancer jump gate editor, Freelancer modding tools, Microsoft Freelancer tools.</sub>
