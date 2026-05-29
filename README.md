@@ -12,13 +12,13 @@
 
 ---
 
-Welcome to **flathack**! We develop robust, user-centric, and open-source tools for the legendary space simulation game **Microsoft Freelancer**. Our primary goal is to empower players, modders, and server creators with advanced utilities that enhance gameplay, streamline modding workflows, and make customization safe and simple.
+Welcome to **flathack**! I develop robust, user-centric, and open-source tools for the legendary space simulation game **Microsoft Freelancer**. My primary goal is to empower players, modders, and server creators with advanced utilities that enhance gameplay, streamline modding workflows, and make customization safe and simple.
 
 ---
 
 ## 🌟 Main Projects
 
-We maintain two flagship projects in active development that form the core of the Freelancer toolkit:
+I maintain two flagship projects in active development that form the core of the Freelancer toolkit:
 
 ### 🗺️ [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 > **Native Freelancer universe and visual system tooling** for complex modding workflows around systems, bases, trade lanes, jump gates/jump holes, and system map layouts.
