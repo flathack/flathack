@@ -63,17 +63,21 @@ Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | 
 - Process large mod data sets such as HD Edition, Discovery, Genesis, and other total-conversion style projects.
 - Validate system layouts, universe coordinates, and connection networks.
 
-Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
 > Desktop launcher for organizing Freelancer installations, active mods, multiplayer IDs, and companion tools.
 
+<p align="center">
+  <img alt="FLAtlas Launcher cockpit" src="assets/launcher_v086_screenshot.jpg">
+</p>
+
 - Manage multiple Freelancer installs or mod profiles.
 - Configure launch paths and player profile data.
 - Start Freelancer and related FLAtlas tools from one place.
 
-Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [German README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md)
 
 ### Savegame Editor Downloads
 
@@ -133,17 +137,21 @@ Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) 
 - Große Mod-Datenbestände wie HD Edition, Discovery, Genesis und andere Total-Conversion-Projekte verarbeiten.
 - Systemlayouts, Universumskoordinaten und Verbindungsnetze validieren.
 
-Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
 > Desktop-Launcher zum Organisieren von Freelancer-Installationen, aktiven Mods, Multiplayer-IDs und Begleittools.
 
+<p align="center">
+  <img alt="FLAtlas Launcher Cockpit" src="assets/launcher_v086_screenshot.jpg">
+</p>
+
 - Mehrere Freelancer-Installationen oder Mod-Profile verwalten.
 - Startpfade und Spielerprofildaten konfigurieren.
 - Freelancer und FLAtlas-Werkzeuge aus einer Oberfläche starten.
 
-Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Deutsche README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md)
 
 ### Savegame-Editor-Downloads
 
