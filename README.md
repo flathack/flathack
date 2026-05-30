@@ -16,6 +16,8 @@
   <a href="#english-version">English</a>
   |
   <a href="#deutsche-version">Deutsch</a>
+  |
+  <a href="#russian-version">Русский</a>
 </p>
 
 ---
@@ -49,7 +51,7 @@ Welcome to **flathack**. I build user-focused tools for **Microsoft Freelancer**
 - Preserve encrypted `FLS1` savegames and unknown save rows where possible.
 - Keep backups and validation warnings visible before risky writes.
 
-Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) | [Russian README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
 
 #### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
@@ -63,7 +65,7 @@ Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | 
 - Process large mod data sets such as HD Edition, Discovery, Genesis, and other total-conversion style projects.
 - Validate system layouts, universe coordinates, and connection networks.
 
-Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md)
+Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russian README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
@@ -77,7 +79,7 @@ Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](
 - Configure launch paths and player profile data.
 - Start Freelancer and related FLAtlas tools from one place.
 
-Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [German README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md)
+Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [German README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md) | [Russian README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
 
 ### Savegame Editor Downloads
 
@@ -123,7 +125,7 @@ Willkommen bei **flathack**. Ich entwickle nutzerorientierte Tools für **Micros
 - Verschlüsselte `FLS1`-Savegames und unbekannte Save-Zeilen nach Möglichkeit erhalten.
 - Backups und Validierungswarnungen vor riskanten Schreibvorgängen sichtbar machen.
 
-Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) | [Russische README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
 
 #### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
@@ -137,7 +139,7 @@ Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) 
 - Große Mod-Datenbestände wie HD Edition, Discovery, Genesis und andere Total-Conversion-Projekte verarbeiten.
 - Systemlayouts, Universumskoordinaten und Verbindungsnetze validieren.
 
-Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md)
+Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russische README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
@@ -151,7 +153,7 @@ Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche READ
 - Startpfade und Spielerprofildaten konfigurieren.
 - Freelancer und FLAtlas-Werkzeuge aus einer Oberfläche starten.
 
-Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Deutsche README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md)
+Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Deutsche README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md) | [Russische README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
 
 ### Savegame-Editor-Downloads
 
@@ -165,6 +167,80 @@ Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [
 ### Hinweise
 
 Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker und Release-Hosts. Einige Entwicklungsschritte passieren zuerst privat, während Release-Builds und Downloads hier für die Community veröffentlicht werden.
+
+---
+
+<a id="russian-version"></a>
+
+## Русская Версия
+
+Добро пожаловать в **flathack**. Я создаю удобные инструменты для **Microsoft Freelancer**: более безопасное редактирование сохранений, поддержку данных модов, визуальные инструменты для вселенной и практичные desktop-workflows.
+
+### Основные Проекты
+
+#### <img src="assets/savegame_editor.png" width="24" height="24" align="center" /> [FLAtlas Savegame Editor](https://github.com/flathack/FLAtlas---Save-Game-Editor)
+
+> Современный редактор singleplayer-сохранений Freelancer с поддержкой модов, резервными копиями, проверкой, encrypted-save support, game-data lookup и cockpit-style UI.
+
+<p align="left">
+  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2">
+    <img alt="Актуальный релиз" src="https://img.shields.io/badge/Latest%20Release-v0.8.2-00d5ff?style=flat-square">
+  </a>
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-x64%20%2B%20ARM64-1f8cff?style=flat-square">
+  <img alt="Backups" src="https://img.shields.io/badge/backups-before%20saving-f4a300?style=flat-square">
+</p>
+
+<p align="center">
+  <img alt="Вид вселенной в FLAtlas Savegame Editor" src="assets/savegame_editor_v082_screenshot.png">
+</p>
+
+- Редактирование кредитов, ранга, описания, фракции игрока, текущей системы, базы, репутации, внешнего вида Трента, оборудования корабля, груза и состояния открытой вселенной.
+- Распознавание названий из vanilla Freelancer, Freelancer HD Edition и модифицированных установок.
+- Сохранение encrypted `FLS1`-сохранений и неизвестных строк сохранения, где это возможно.
+- Видимые резервные копии и предупреждения проверки перед рискованной записью.
+
+Открыть: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.2](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) | [Русская README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+
+#### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
+
+> Нативные инструменты для вселенной Freelancer и визуальной работы с системами, базами, trade lanes, jump gates, jump holes и layout-картами.
+
+<p align="center">
+  <img alt="Редактор вселенной FLAtlas V2" src="assets/flatlas_v0805_screenshot.jpg">
+</p>
+
+- Визуальный просмотр и проверка структур вселенной Freelancer.
+- Обработка больших наборов данных модов, включая HD Edition, Discovery, Genesis и другие total-conversion проекты.
+- Проверка system layouts, координат вселенной и сетей соединений.
+
+Открыть: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Русская README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
+
+#### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
+
+> Desktop-лаунчер для управления установками Freelancer, активными модами, multiplayer IDs и сопутствующими инструментами.
+
+<p align="center">
+  <img alt="FLAtlas Launcher cockpit" src="assets/launcher_v086_screenshot.jpg">
+</p>
+
+- Управление несколькими установками Freelancer или mod profiles.
+- Настройка путей запуска и данных профиля игрока.
+- Запуск Freelancer и инструментов FLAtlas из одного интерфейса.
+
+Открыть: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Русская README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
+
+### Загрузки Savegame Editor
+
+| Сборка | Для кого | Скачать |
+| --- | --- | --- |
+| **Windows x64** | Большинство ПК с Windows | [Download v0.8.2 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.2/FLAtlas-Savegame-Editor-v0.8.2-windows-x64.zip) |
+| **Windows ARM64** | Устройства Windows на ARM | [Download v0.8.2 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.2/FLAtlas-Savegame-Editor-v0.8.2-windows-arm64.zip) |
+| **Страница релиза** | Заметки, контрольные суммы, старые сборки | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.2) |
+| **Зеркало ModDB** | Страница загрузки сообщества Freelancer | [FLAtlas Savegame Editor на ModDB](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor) |
+
+### Примечания
+
+Публичные GitHub-репозитории используются как страницы проектов, issue trackers и release hosts. Часть разработки сначала происходит приватно, а release-builds и downloads публикуются здесь для сообщества.
 
 ---
 
