@@ -35,8 +35,8 @@ Welcome to **flathack**. I build user-focused tools for **Microsoft Freelancer**
 > A modern, mod-aware Freelancer singleplayer savegame editor with backups, validation, encrypted-save support, game-data lookup, and a cockpit-style UI.
 
 <p align="left">
-  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3">
-    <img alt="Latest Release" src="https://img.shields.io/badge/Latest%20Release-v0.8.3-00d5ff?style=flat-square">
+  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4">
+    <img alt="Latest Release" src="https://img.shields.io/badge/Latest%20Release-v0.8.4-00d5ff?style=flat-square">
   </a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-x64%20%2B%20ARM64-1f8cff?style=flat-square">
   <img alt="Backups" src="https://img.shields.io/badge/backups-before%20saving-f4a300?style=flat-square">
@@ -51,7 +51,7 @@ Welcome to **flathack**. I build user-focused tools for **Microsoft Freelancer**
 - Preserve encrypted `FLS1` savegames and unknown save rows where possible.
 - Keep backups and validation warnings visible before risky writes.
 
-Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.3](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) | [Russian README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.4](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) | [Russian README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
 
 #### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
@@ -85,9 +85,9 @@ Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Ge
 
 | Build | Best for | Download |
 | --- | --- | --- |
-| **Windows x64** | Most Windows PCs | [Download v0.8.3 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-x64.zip) |
-| **Windows ARM64** | ARM-based Windows devices | [Download v0.8.3 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-arm64.zip) |
-| **Release page** | Notes, checksums, older builds | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) |
+| **Windows x64** | Most Windows PCs | [Download v0.8.4 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-x64.zip) |
+| **Windows ARM64** | ARM-based Windows devices | [Download v0.8.4 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-arm64.zip) |
+| **Release page** | Notes, checksums, older builds | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) |
 | **ModDB mirror** | Freelancer community download page | [FLAtlas Savegame Editor on ModDB](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor) |
 
 ### Notes
@@ -109,8 +109,8 @@ Willkommen bei **flathack**. Ich entwickle nutzerorientierte Tools für **Micros
 > Ein moderner, mod-kompatibler Freelancer-Singleplayer-Savegame-Editor mit Backups, Validierung, Unterstützung für verschlüsselte Saves, Spieldatenauflösung und Cockpit-UI.
 
 <p align="left">
-  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3">
-    <img alt="Aktuelles Release" src="https://img.shields.io/badge/Aktuelles%20Release-v0.8.3-00d5ff?style=flat-square">
+  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4">
+    <img alt="Aktuelles Release" src="https://img.shields.io/badge/Aktuelles%20Release-v0.8.4-00d5ff?style=flat-square">
   </a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-x64%20%2B%20ARM64-1f8cff?style=flat-square">
   <img alt="Backups" src="https://img.shields.io/badge/Backups-vor%20dem%20Speichern-f4a300?style=flat-square">
@@ -125,7 +125,7 @@ Willkommen bei **flathack**. Ich entwickle nutzerorientierte Tools für **Micros
 - Verschlüsselte `FLS1`-Savegames und unbekannte Save-Zeilen nach Möglichkeit erhalten.
 - Backups und Validierungswarnungen vor riskanten Schreibvorgängen sichtbar machen.
 
-Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.3](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) | [Russische README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.4](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) | [Russische README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
 
 #### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
@@ -159,9 +159,9 @@ Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [
 
 | Build | Geeignet für | Download |
 | --- | --- | --- |
-| **Windows x64** | Die meisten Windows-PCs | [Download v0.8.3 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-x64.zip) |
-| **Windows ARM64** | Windows-Geräte mit ARM-Prozessor | [Download v0.8.3 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-arm64.zip) |
-| **Release-Seite** | Hinweise, Prüfsummen, ältere Builds | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) |
+| **Windows x64** | Die meisten Windows-PCs | [Download v0.8.4 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-x64.zip) |
+| **Windows ARM64** | Windows-Geräte mit ARM-Prozessor | [Download v0.8.4 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-arm64.zip) |
+| **Release-Seite** | Hinweise, Prüfsummen, ältere Builds | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) |
 | **ModDB-Spiegel** | Freelancer-Community-Downloadseite | [FLAtlas Savegame Editor auf ModDB](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor) |
 
 ### Hinweise
@@ -183,8 +183,8 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 > Современный редактор singleplayer-сохранений Freelancer с поддержкой модов, резервными копиями, проверкой, encrypted-save support, game-data lookup и cockpit-style UI.
 
 <p align="left">
-  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3">
-    <img alt="Актуальный релиз" src="https://img.shields.io/badge/Latest%20Release-v0.8.3-00d5ff?style=flat-square">
+  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4">
+    <img alt="Актуальный релиз" src="https://img.shields.io/badge/Latest%20Release-v0.8.4-00d5ff?style=flat-square">
   </a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-x64%20%2B%20ARM64-1f8cff?style=flat-square">
   <img alt="Backups" src="https://img.shields.io/badge/backups-before%20saving-f4a300?style=flat-square">
@@ -199,7 +199,7 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 - Сохранение encrypted `FLS1`-сохранений и неизвестных строк сохранения, где это возможно.
 - Видимые резервные копии и предупреждения проверки перед рискованной записью.
 
-Открыть: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.3](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) | [Русская README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
+Открыть: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | [Download v0.8.4](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) | [Русская README](https://github.com/flathack/FLAtlas---Save-Game-Editor/blob/main/README.ru.md) | [ModDB Mirror](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor)
 
 #### <img src="assets/flatlas_v2.png" width="24" height="24" align="center" /> [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2)
 
@@ -233,9 +233,9 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 
 | Сборка | Для кого | Скачать |
 | --- | --- | --- |
-| **Windows x64** | Большинство ПК с Windows | [Download v0.8.3 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-x64.zip) |
-| **Windows ARM64** | Устройства Windows на ARM | [Download v0.8.3 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.3/FLAtlas-Savegame-Editor-v0.8.3-windows-arm64.zip) |
-| **Страница релиза** | Заметки, контрольные суммы, старые сборки | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3) |
+| **Windows x64** | Большинство ПК с Windows | [Download v0.8.4 x64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-x64.zip) |
+| **Windows ARM64** | Устройства Windows на ARM | [Download v0.8.4 ARM64](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/download/v0.8.4/FLAtlas-Savegame-Editor-v0.8.4-windows-arm64.zip) |
+| **Страница релиза** | Заметки, контрольные суммы, старые сборки | [GitHub Releases](https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4) |
 | **Зеркало ModDB** | Страница загрузки сообщества Freelancer | [FLAtlas Savegame Editor на ModDB](https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor) |
 
 ### Примечания
@@ -247,7 +247,7 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 <p align="center">
   <a href="https://github.com/flathack?tab=repositories">View All Repositories</a>
   |
-  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.3">Latest Savegame Editor</a>
+  <a href="https://github.com/flathack/FLAtlas---Save-Game-Editor/releases/tag/v0.8.4">Latest Savegame Editor</a>
   |
   <a href="https://www.moddb.com/games/freelancer/downloads/flatlas-savegame-editor">ModDB Portal</a>
 </p>
