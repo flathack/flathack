@@ -81,6 +81,10 @@ Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](
 
 Explore: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [German README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md) | [Russian README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
 
+### Other Automation
+
+- **[Citrix VDA Upgrade Automation](https://github.com/flathack/Citrix-VDA-Upgrade-Automation)** — guarded, reboot-resilient Windows PowerShell orchestration for single-session Citrix VDA upgrades. [Release v1.0.0](https://github.com/flathack/Citrix-VDA-Upgrade-Automation/releases/tag/v1.0.0)
+
 ### Savegame Editor Downloads
 
 | Build | Best for | Download |
@@ -155,6 +159,10 @@ Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche READ
 
 Entdecken: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Deutsche README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.de.md) | [Russische README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
 
+### Weitere Automatisierung
+
+- **[Citrix VDA Upgrade Automation](https://github.com/flathack/Citrix-VDA-Upgrade-Automation)** — geschützte, neustartfeste Windows-PowerShell-Orchestrierung für Upgrades von Citrix Single-Session-VDAs. [Release v1.0.0](https://github.com/flathack/Citrix-VDA-Upgrade-Automation/releases/tag/v1.0.0)
+
 ### Savegame-Editor-Downloads
 
 | Build | Geeignet für | Download |
@@ -228,6 +236,10 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 - Запуск Freelancer и инструментов FLAtlas из одного интерфейса.
 
 Открыть: [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher) | [Русская README](https://github.com/flathack/FL-Atlas-Launcher/blob/main/README.ru.md)
+
+### Другая автоматизация
+
+- **[Citrix VDA Upgrade Automation](https://github.com/flathack/Citrix-VDA-Upgrade-Automation)** — защищённая и устойчивая к перезагрузкам Windows PowerShell-автоматизация обновлений Citrix VDA для single-session-систем. [Релиз v1.0.0](https://github.com/flathack/Citrix-VDA-Upgrade-Automation/releases/tag/v1.0.0)
 
 ### Загрузки Savegame Editor
 
