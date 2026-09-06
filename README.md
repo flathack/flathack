@@ -65,7 +65,7 @@ Explore: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) | 
 - Process large mod data sets such as HD Edition, Discovery, Genesis, and other total-conversion style projects.
 - Validate system layouts, universe coordinates, and connection networks.
 
-Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [German README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russian README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
+Explore: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Download v0.8.8](https://github.com/flathack/FLAtlas-V2/releases/tag/v0.8.8) | [German README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russian README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
@@ -143,7 +143,7 @@ Entdecken: [Repository](https://github.com/flathack/FLAtlas---Save-Game-Editor) 
 - Große Mod-Datenbestände wie HD Edition, Discovery, Genesis und andere Total-Conversion-Projekte verarbeiten.
 - Systemlayouts, Universumskoordinaten und Verbindungsnetze validieren.
 
-Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Deutsche README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russische README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
+Entdecken: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Download v0.8.8](https://github.com/flathack/FLAtlas-V2/releases/tag/v0.8.8) | [Deutsche README](https://github.com/flathack/FLAtlas-V2/blob/master/README.de.md) | [Russische README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
@@ -221,7 +221,7 @@ Die öffentlichen GitHub-Repositories dienen als Projektseiten, Issue Tracker un
 - Обработка больших наборов данных модов, включая HD Edition, Discovery, Genesis и другие total-conversion проекты.
 - Проверка system layouts, координат вселенной и сетей соединений.
 
-Открыть: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Русская README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
+Открыть: [FLAtlas-V2](https://github.com/flathack/FLAtlas-V2) | [Download v0.8.8](https://github.com/flathack/FLAtlas-V2/releases/tag/v0.8.8) | [Русская README](https://github.com/flathack/FLAtlas-V2/blob/master/README.ru.md)
 
 #### <img src="assets/launcher.png" width="24" height="24" align="center" /> [FLAtlas Launcher](https://github.com/flathack/FL-Atlas-Launcher)
 
